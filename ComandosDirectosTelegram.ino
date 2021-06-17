@@ -45,10 +45,10 @@ float ObtenerTemperatura(bool i) {
 }//float ObtenerTemperatura
 /********************************************************************************/
 // Credenciales de la conexión WiFi
-#define WIFI_SSID "DIAZARRANTE"
-#define WIFI_PASSWORD "TLWw5ExPxZt9vkV5fMn2"
+#define WIFI_SSID "SSID DE LA WIFI"               //DATOS CAMBIADOS POR PRIVACIDAD
+#define WIFI_PASSWORD "CONTRASEÑA DE LA WIFI"
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "1579159553:AAFoF2QTnTZb4I8SBgvlNalGuJabaGkaNPM"
+#define BOT_TOKEN "API DEL BOT DE TELEGRAM"
 
 //Seguridad de telegram
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
